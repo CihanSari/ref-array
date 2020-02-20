@@ -19,11 +19,11 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "ref": "github:cihansari/ref"
   },
   "devDependencies": {
     "bindings": "1",
     "mocha": "3",
-    "nan": "2"
+    "nan": "^2.14.0"
   }
 }
